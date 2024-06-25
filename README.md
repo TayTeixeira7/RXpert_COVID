@@ -14,19 +14,19 @@ Taynara Garcia Teixeira
     - Energia: Mede a uniformidade da distribuição dos níveis de cinza. Valores mais altos indicam uma textura mais uniforme.
     - Homogeneidade: Mede a proximidade da distribuição dos elementos na GLCM à diagonal da matriz. Valores mais altos indicam que os elementos estão mais próximos da diagonal, representando uma textura mais suave.
 
-### **Repositório do projeto**
+### Repositório do projeto
 
-    https://github.com/TayTeixeira7/RXpert_COVID
+    [Link para o GitHub](https://github.com/TayTeixeira7/RXpert_COVID)
 
 ### **Classificador e acurácia**
 
 ```
-- **Hu Moments:**   
+- Hu Moments:   
     MLP (Multilayer Perceptron): 80.35%
     RF (Random Forest): 89.28%
     SVM (Support Vector Machine): 85.71%
 
-- **GLCM (Gray Level Co-occurrence Matrix):** 
+- GLCM (Gray Level Co-occurrence Matrix):
     MLP (Multilayer Perceptron): 94.64%
     RF (Random Forest): 89.28%
     SVM (Support Vector Machine): 96.42%
