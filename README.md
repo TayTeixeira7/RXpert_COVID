@@ -15,7 +15,7 @@ Taynara Garcia Teixeira
     - Homogeneidade: Mede a proximidade da distribuição dos elementos na GLCM à diagonal da matriz. Valores mais altos indicam que os elementos estão mais próximos da diagonal, representando uma textura mais suave.
 
 ### **Repositório do projeto**
-    <a href=" https://github.com/TayTeixeira7/RXpert_COVID">github</a>
+    https://github.com/TayTeixeira7/RXpert_COVID
 
 ### **Classificador e acurácia**
 
