@@ -38,7 +38,7 @@ def main():
     testFeatures = getFeatures(testFeaturePath,featureFilename)
     testEncodedLabels = getLabels(testFeaturePath,labelFilename)
     encoderClasses = getEncoderClasses(testFeaturePath,encoderFilename)
-    predictedLabels = predictRandomForest(svm,testFeatures)
+    predictedLabels = predictRandomForest(rf,testFeatures)
 
     elapsedTime = round(time.time() - mainStartTime,2)
     print(f'[INFO] Code execution time: {elapsedTime}s')
