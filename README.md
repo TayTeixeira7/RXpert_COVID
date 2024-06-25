@@ -15,11 +15,11 @@ Taynara Garcia Teixeira
     - Homogeneidade: Mede a proximidade da distribuição dos elementos na GLCM à diagonal da matriz. Valores mais altos indicam que os elementos estão mais próximos da diagonal, representando uma textura mais suave.
 
 ### **Repositório do projeto**
-    <https://github.com/TayTeixeira7/RXpert_COVID>
+    [https://github.com/TayTeixeira7/RXpert_COVID](https://github.com/TayTeixeira7/RXpert_COVID)
 
 ### **Classificador e acurácia**
 
-´´´
+
 - **Hu Moments:**   
     MLP (Multilayer Perceptron): 80.35%
     RF (Random Forest): 89.28%
@@ -30,7 +30,6 @@ Taynara Garcia Teixeira
     RF (Random Forest): 89.28%
     SVM (Support Vector Machine): 96.42%
 
-´´´
 
 ### **Instruções de uso (opcional)**
 1. Certifique-se de que todas as bibliotecas estão instaladas corretamente. Para usar o descritor de textura GLCM é preciso fazer o import da biblioteca scikit-image.
