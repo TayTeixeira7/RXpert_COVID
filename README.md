@@ -16,7 +16,7 @@ Taynara Garcia Teixeira
 
 ### Repositório do projeto
 
-    [Link para o GitHub](https://github.com/TayTeixeira7/RXpert_COVID)
+    https://github.com/TayTeixeira7/RXpert_COVID
 
 ### **Classificador e acurácia**
 
